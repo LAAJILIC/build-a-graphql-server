@@ -1,0 +1,16 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "Build a GraphQL server to test schemas using mock DB",
+  "main": "index.js",
+  "author": "LAAJILIC",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.3.0"
+  }
+}
